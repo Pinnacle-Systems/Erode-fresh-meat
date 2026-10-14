@@ -24,7 +24,7 @@
                     <div class="icon-box"> <i class="lni-envelope"></i> </div>
                     <div class="info-text">
                         <h6>Need support? Drop us an email</h6>
-                        <h4>erodefreshmeat@gmail.com</h4>
+                        <h4>sunilkumaar.m@gmail.com</h4>
                     </div>
                 </div>
             </div>

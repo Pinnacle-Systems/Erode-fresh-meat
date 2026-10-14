@@ -4,8 +4,8 @@
 $host = "localhost";
 $data_base = "erode_db1";
 $uname = "root";
-// $pass = "Pinnacle";
-$pass = "46Y08diA1vEL1l1j";
+$pass = "Pinnacle";
+// $pass = "46Y08diA1vEL1l1j";
 
 
 

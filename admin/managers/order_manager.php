@@ -63,7 +63,7 @@ function compose_mail($transactionId, $paymentId) {
 
     $message1 = $message1 . "TOTAL : $totalAmount \n"
             . "Payment Method : " . $order['PAYMENT_METHOD'];
-    $to_email = 'erodefreshmeat@gmail.com';
+    $to_email = 'sunilkumaar.m@gmail.com';
     $subject = 'Product Purchase';
     $emailMsg = "Name : " . $order['CUSTOMER_NAME'] . " \n"
             . "Email : " . $order['CUSTOMER_EMAIL'] . " \n"

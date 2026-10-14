@@ -76,3 +76,6 @@ CREATE TABLE ordered_products
 
 INSERT INTO `admin_master` (`ADMIN_NAME`, `ADMIN_EMAIL`, `ADMIN_PASSWORD`, `CREATED_DATE`, `STATUS`) 
 VALUES ('Manoj', 'manoj@thullaim.net', 't5h5k4k4s5', current_timestamp(), '1');
+
+INSERT INTO `admin_master` (`ADMIN_NAME`, `ADMIN_EMAIL`, `ADMIN_PASSWORD`, `CREATED_DATE`, `STATUS`) 
+VALUES ('sunil', 'sunilkumaar.m@gmail.com', 'z516k4e4u5', current_timestamp(), '1');

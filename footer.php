@@ -34,7 +34,7 @@
         <div class="row py-3">
             <div class="col-md-3 col-sm-6 d-flex align-items-center">
                 <div class="footer-logo-wrapper">
-                    <div class="footer-logo"> <a href="index.php"><img src="img/logo-food-2.png" alt=""></a> </div>
+                    <div class="footer-logo"> <a class="navbar-brand logo font-weight-bold" href="index.php" style="color: #f7941d; font-weight: 700;">Erode Fresh Meat</a></div>
 <!--                    <div>
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
                     </div>-->

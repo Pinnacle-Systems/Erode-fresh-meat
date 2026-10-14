@@ -63,7 +63,7 @@ function compose_mail($transactionId, $paymentId) {
 
     $message1 = $message1 . "TOTAL : $totalAmount \n"
             . "Payment Method : " . $order['PAYMENT_METHOD'];
-    $to_email = 'salemfreshmeat@gmail.com';
+    $to_email = 'erodefreshmeat@gmail.com';
     $subject = 'Product Purchase';
     $emailMsg = "Name : " . $order['CUSTOMER_NAME'] . " \n"
             . "Email : " . $order['CUSTOMER_EMAIL'] . " \n"
@@ -73,7 +73,7 @@ function compose_mail($transactionId, $paymentId) {
             . "\n\n"
             . "$message1";
 
-    $headers = 'From: noreply@salemfreshmeat.com';
+    $headers = 'From: noreply@erodefreshmeat.com';
     if (!mail($to_email, $subject, $emailMsg, $headers)) {
 //        $log_file = "./my-errors.log";
 //        error_log($emailMsg . "\n", 3, $log_file);

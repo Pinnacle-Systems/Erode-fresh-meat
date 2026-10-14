@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>Salem fresh Meat</title>
+        <title>Erode fresh Meat</title>
         <link href="https://fonts.googleapis.com/css?family=Heebo:300,400,500,700,900&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="css/bootstrap.css">
         <link rel="stylesheet" href="css/style.css">
@@ -26,12 +26,12 @@
                             <h2> Contact Us </h2>
                             Have a question? Concern? Request? We'd like to hear from you.
                             <div class="divider divider-line"></div>
-                            <p>M.Sureshkumar</p>
+                            <p>Sunil Kumar</p>
                             <p>
-                                10, Royal Gardens</br>
-                                Meyyanur,</br>
-                                Salem</br>
-                                636004</br>
+                                265/14</br>
+                                Alagar Nagar,Vaikalmedu ,Karumparai </br>
+                                Erode</br>
+                                638104</br>
                             </p>
                             <div class="progress-item pt-2"> <span class="mb-3 font-weight-bold">Location</span>
                                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7814.799339420535!2d78.1330919992618!3d11.666061948247515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbfbe5cab2c59799b!2sRoyal%20garden!5e0!3m2!1sen!2sin!4v1632287361862!5m2!1sen!2sin" style="border:0;width:100%;height:200px;" allowfullscreen="" loading="lazy"></iframe>

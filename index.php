@@ -10,7 +10,7 @@ $limitedProducts = getProductsByFilterAndLimit("1", "0", "4");
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>Salem fresh Meat</title>
+        <title>Erode fresh Meat</title>
         <link href="https://fonts.googleapis.com/css?family=Heebo:300,400,500,700,900&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="css/bootstrap.css">
         <link rel="stylesheet" href="css/style.css">

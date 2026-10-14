@@ -2,13 +2,13 @@
 
 // BASIC CONFIGURATIONS
 $host = "localhost";
-$data_base = "salemt_db1";
-$uname = "salemt_1";
-$pass = "bP37NkJDVUerFwXq";
+$data_base = "erode_db1";
+$uname = "root";
+$pass = "Pinnacle";
 
 
 
-$website_name = "Salem Fresh Meat";
+$website_name = "Erode Fresh Meat";
 
 // TABLES
 function getAdminTableName() {return "admin_master";}

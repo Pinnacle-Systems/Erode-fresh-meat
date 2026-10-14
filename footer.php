@@ -6,7 +6,7 @@
                     <div class="icon-box"> <i class="lni-phone-handset"></i> </div>
                     <div class="info-text">
                         <h6>Have a question? Call us now</h6>
-                        <h4>+91 6380178964</h4>
+                        <h4>+91 7010103361</h4>
                     </div>
                 </div>
             </div>
@@ -24,7 +24,7 @@
                     <div class="icon-box"> <i class="lni-envelope"></i> </div>
                     <div class="info-text">
                         <h6>Need support? Drop us an email</h6>
-                        <h4>salemfreshmeat@gmail.com</h4>
+                        <h4>erodefreshmeat@gmail.com</h4>
                     </div>
                 </div>
             </div>
@@ -85,7 +85,7 @@
 <div class="container">
     <div class="row py-3">
         <!--<div class="col-md-4 text-center text-md-left py-1 small dd"> <a href="#">Privacy Policy</a> - <a href="#">Contact Us</a> </div>-->
-        <div class="col-md-8 text-center text-md-right py-1 small dd"> © Copyright 2021 Pinnacle Systems. All Rights Reserved.<!-- Template by <a target="_blank" href="http://bootstraplily.com/">BootstrapLily.com</a>--> </div>
+        <div class="col-md-8 text-center text-md-right py-1 small dd"> © Copyright 2026 Pinnacle Systems. All Rights Reserved.<!-- Template by <a target="_blank" href="http://bootstraplily.com/">BootstrapLily.com</a>--> </div>
     </div>
 </div>
 

@@ -34,7 +34,7 @@
                                 638104</br>
                             </p>
                             <div class="progress-item pt-2"> <span class="mb-3 font-weight-bold">Location</span>
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7814.799339420535!2d78.1330919992618!3d11.666061948247515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbfbe5cab2c59799b!2sRoyal%20garden!5e0!3m2!1sen!2sin!4v1632287361862!5m2!1sen!2sin" style="border:0;width:100%;height:200px;" allowfullscreen="" loading="lazy"></iframe>
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3912.00767732431!2d77.72727897480575!3d11.299358488884061!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba96f84e656b78d%3A0xb0b50eb892688446!2sERODE%20FRESH%20MEAT!5e0!3m2!1sen!2sin!4v1710000000000!5m2!1sen!2sin" style="border:0;width:100%;height:200px;" allowfullscreen="" loading="lazy"></iframe>
                             </div>
                         </div>
                     </div>

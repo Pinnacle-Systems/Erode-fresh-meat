@@ -6,7 +6,7 @@
                     <div class="icon-box"> <i class="lni-phone-handset"></i> </div>
                     <div class="info-text">
                         <h6>Have a question? Call us now</h6>
-                        <h4>+91 7010103361</h4>
+                        <h4>+91 9791985934</h4>
                     </div>
                 </div>
             </div>

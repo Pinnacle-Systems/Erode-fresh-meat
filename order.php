@@ -54,7 +54,7 @@ if (isset($_GET['product'])) {
 <!--                                <b>Net Weight :</b> <span><?php echo $product['NET_WEIGHT']; ?></span></br>-->
                                 <b>Delivery Time :</b> <span><?php echo $product['DELIVERY_TIME']; ?></span></br>
                             </div>
-                            <a href="https://api.whatsapp.com/send?phone=+917010103361&amp;text=Hi,%20I%20want%20to%20order%20this%20product:%20<?php echo $product['PRODUCT_NAME']; ?>" target="_blank" style="text-decoration: none;">                
+                            <a href="https://api.whatsapp.com/send?phone=+919791985934&amp;text=Hi,%20I%20want%20to%20order%20this%20product:%20<?php echo $product['PRODUCT_NAME']; ?>" target="_blank" style="text-decoration: none;">                
                                 <div style="margin-top: 20px; margin-bottom:20px; padding: 11px; text-align: center; background-color: #1EA651;height: 44px;color:white;">                  
                                     <img src="https://cdn.shopify.com/s/files/1/0073/2522/0979/files/whatsapp-icon.png?v=1615793565" width="25px" style="vertical-align:middle;"> Order On <span style="font-weight: bold;">WhatsApp</span>                  
                                 </div>               
